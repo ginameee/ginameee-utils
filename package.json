@@ -1,0 +1,22 @@
+{
+  "name": "ginameee-utils",
+  "version": "0.0.2",
+  "description": "",
+  "main": "./utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginameee/ginameee-utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ginameee/ginameee-utils/issues"
+  },
+  "bin": {
+    "g-utils": "./bin.js"
+  },
+  "homepage": "https://github.com/ginameee/ginameee-utils#readme"
+}
